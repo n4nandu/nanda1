@@ -22,7 +22,7 @@ public class HelloWorldTests {
 	public void contextLoads() {
 	}
 
-	String message = "Hello World";
+	String message = "Hello World dis is";
 	Result result = JUnitCore.runClasses(HelloWorld.class);
 
 	public void testHelloWorld() {
